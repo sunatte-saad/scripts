@@ -24,8 +24,8 @@ imap_server = 'imap.titan.email'
 imap_port = 993
 
 # Sender's email and password
-sender_email = 'contact@adictoai.com'
-sender_password = 'Raccoon@12345'
+sender_email = ''
+sender_password = ''
 
 
 def send_email(recipient_email, recipient_name, recipient_id):
